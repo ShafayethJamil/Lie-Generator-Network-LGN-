@@ -4,7 +4,7 @@ EXPERIMENT 2: RLC Circuit (Dissipative)
 System: dq/dt = p, dp/dt = -ω₀²q - γp
 Energy: E = ½(p² + ω₀²q²), dE/dt = -γp² ≤ 0 (monotonically decreasing)
 
-Comparisons: Magnus vs HNN vs Neural ODE
+Comparisons: LGN vs HNN vs Neural ODE
 Key Claim: HNN CANNOT represent dissipation by design. Magnus handles BOTH conservative AND dissipative.
 """
 

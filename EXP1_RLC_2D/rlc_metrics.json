@@ -1,0 +1,20 @@
+{
+  "magnus": {
+    "rmse_mean": 4.46993468715483e-12,
+    "rmse_std": 0.0,
+    "violation_frac_mean": 0.0,
+    "violation_frac_std": 0.0
+  },
+  "hnn": {
+    "rmse_mean": 4.30924656028074,
+    "rmse_std": 2.3755094998787136,
+    "violation_frac_mean": 0.7904571237904571,
+    "violation_frac_std": 0.19962937194366298
+  },
+  "node": {
+    "rmse_mean": 0.018317629169439315,
+    "rmse_std": 0.00047182314682877756,
+    "violation_frac_mean": 0.15315315315315314,
+    "violation_frac_std": 0.009282901396892598
+  }
+}
